@@ -18,6 +18,7 @@ header {
     display: inline-block;
     margin-left: 0;
     margin-right: 0;
+    border-radius: 5px;
 }
 
 nav {
@@ -51,6 +52,7 @@ a {
 .hero img {
     width: 45%;
     height: auto;
+    border-radius: 5px;
 }
 
 .hero-text {
@@ -93,6 +95,10 @@ main h2 {
     justify-content: space-between;
     gap: 20px;
     padding: 0 15% 7% 15%;
+}
+
+.projects-img {
+    border-radius: 5px;
 }
 
 .quote {
